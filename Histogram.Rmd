@@ -35,3 +35,5 @@ Y<- rnorm( 100)
 hist( Y)
 ```
 ![Guass is a statistician.](Guass.jpg){width=10%}
+
+My name is PJ Williams.
